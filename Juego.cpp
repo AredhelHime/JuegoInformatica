@@ -12,8 +12,7 @@ int main()
 	int opcion = 0;
 
 	//char
-
-
+	char prueba = 'a';
 	//enums
 	enum {
 		menu, inicio, ayudarViejo, escaparSolo, abrirPuertaEspada, abrirPuertaGuardia, fin
